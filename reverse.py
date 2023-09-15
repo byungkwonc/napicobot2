@@ -1,4 +1,4 @@
-myWord = "iu-tobtahc/yelgirwyakcm/moc.buhtig//:sptth";
+myWord = "abcdefghijklmnopqrstuvwxyz";
 print(myWord, myWord[::-1]);
  
 myNum = 1234567890;
