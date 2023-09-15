@@ -7,3 +7,4 @@ __pycache__/
 .coverage
 htmlcov
 local_messages_db.json
+.vercel
