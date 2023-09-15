@@ -1,7 +1,7 @@
 {
     "schema_version": "v1",
     "name_for_model": "retrieval",
-    "name_for_human": "AskUp Search",
+    "name_for_human": "napicobot Search",
     "description_for_model": "Plugin for searching through recent news, image, shopping, web, book, movie, blogs, local information, etc. The results will be json. Please is this to find answers to questions and retrieve relevant information. Use it whenever a user asks something about recent information.",
     "description_for_human": "Search through your documents.",
     "auth": {
@@ -9,10 +9,10 @@
     },
     "api": {
       "type": "openapi",
-      "url": "https://askup-plugin.sung.devstage.ai/.well-known/openapi.yaml",
+      "url": "https://napicobot2.vercel.app/.well-known/openapi.yaml",
       "has_user_authentication": false
     },
-    "logo_url": "https://askup-plugin.sung.devstage.ai/.well-known/napicobot_logo.png",
+    "logo_url": "https://napicobot2.vercel.app/.well-known/napicobot_logo.png",
     "contact_email": "byungkwonc@gmail.com", 
     "legal_info_url": "https://github.com/byungkwonc/"
   }

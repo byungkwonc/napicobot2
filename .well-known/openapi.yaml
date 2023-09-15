@@ -1,10 +1,10 @@
 openapi: 3.1.0
 info:
-  title: AskUp Search API
+  title: napico Search API
   description: A retrieval API for querying and filtering json results based on keyword based queries
   version: 1.0.0
 servers:
-  - url: https://askup-plugin.sung.devstage.ai
+  - url: https://napicobot2.vercel.app/
 paths:
   /search/web:
     get:
