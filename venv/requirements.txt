@@ -1,9 +1,0 @@
-python-telegram-bot
-openai
-tinydb
-hupper
-uvicorn
-fastapi
-pyyaml
-
-flask==1.0.2
